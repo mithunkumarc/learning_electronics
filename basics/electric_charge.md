@@ -60,4 +60,6 @@ In a single-phase house (like standard 230V power), the voltage wave rises and f
 In contrast, look at a three-phase system:When Phase R crosses zero, Phase Y is sitting at a high positive voltage, and Phase B is sitting at a deep negative voltage.Because they are shifted by 120 degrees, at least two lines are always highly energized, keeping the electrical network continuously active.
 
 
+explore  more about three phase power principle and rotating magnetic field
+
 
