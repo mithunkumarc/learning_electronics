@@ -46,7 +46,7 @@ star end (Y - like 3 end) : three coils made to rotate in generator
 Primary coil (supply side) 11kv : seconday coil(home side) star or Y 230v: home appliances
 
 when electricity generated, three coil made to rotate in magnetic field, electric/magnetic field/voltage with 120 phase generated, same will flow to 
-primary coil, same phase will reflect in secondary coil may be with step down.
+primary coil, same phase will reflect in secondary coil may be with step down. among three coil when one coil goto zero, but other coil are peak in opposite direction.
 
 each coil has 230 volts is generated and voltage difference between any two lines is 415. (triange 120 degree and sides are 230)
 
