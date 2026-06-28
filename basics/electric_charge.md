@@ -6,8 +6,9 @@ If coil rotates in magnetic field current is generated. (eg: flow of water rotat
 Imagination of current generation
 
 the place where EMI created, it pulls electrons(become moving negetive charge) from the line/wire, the current(moving positive charge) flow assumed opposite to flow of electrons.
-the place where EMI created, high potential, the other end is low potential, electrons move from low potential to high potential.
+the place where EMI/Electro motive force created, high potential, the other end is low potential, electrons move from low potential to high potential. 
 
+EMF(bavi inda neeru seleyuvudu), electrons : bucket of water, current : effect of loosing electrons/ positive charge move in opposite direction
 
 hot wire : current from supply line to home. Imagine hot wire from supply connected to multiple home suppliances in parallel.
 neutral wire : home appliances to neutral wire. Imagine multiple home suppliances in parallel connected back to neutral wire.
