@@ -7,7 +7,7 @@ This document breaks down the exact step-by-step mechanism of an AC ceiling fan 
 ## 🏗️ 1. Core Internal Components
 
 *   **The Stator (Stationary Coils):** An inner ring of fixed copper wire coils arranged in a circular pattern (**Top, Bottom, Right, and Left**). These coils do not physically move.
-*   **The Rotor (Moving Part):** A metallic ring holding bars or magnets located at the center, surrounding the stator. The fan blades are bolted directly to this rotor.
+*   **The Rotor (Moving Part):** A metallic ring holding bars or magnets located at the center, surrounding the stator. The fan blades are bolted directly to this rotor. it has no current connection, due to stator magnetic field change, current induce and opposite magnetic poles/field created with respect to stator.
 *   **The Capacitor:** A small electrical component wired in series with only one set of the stator coils (the Right/Left track).auxilary track
 
 ---
