@@ -1,4 +1,6 @@
-# How a Ceiling Fan Works: The Complete Physics Guide
+## How a Ceiling Fan Works: The Complete Physics Guide
+
+## which current reach first? stator or rotor, still need to update.
 
 This document breaks down the exact step-by-step mechanism of an AC ceiling fan motor, converting alternating current (AC) into continuous, one-way rotational motion.
 
