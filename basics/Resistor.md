@@ -1,0 +1,11 @@
+- make difficult to flow of current and impose voltage reduction.  
+- symbol omega  
+- us symbol and europe symbol different
+- we can use resistor to limit the charging rate of capacitor. (more resistor value = more time to charge)
+- protecting LED or other devices
+- providing control voltage to BJT.(need more information)
+- we can resistor for voltage divider
+- potentiometer : variable resistance
+- Resistor absorbs electrical energy(voltage or current) which dissipate as heat.
+- find power consumed by resistor , p=v*i
+- 
