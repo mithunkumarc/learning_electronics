@@ -1,0 +1,23 @@
+- In DC, It will accumulate charge, It stores electric energy like small rechargeable battery.
+- discharge is fast but can be slowdown using series resistor
+- what is timing component? can we use capacitor?
+- used to block dc current while it passes pulses?
+- smooth the output voltage
+- to remove spike from signals?
+- is DC is noise? how ? in ac?
+- in dc, while charging  electrons accumulate on one plate repel electrons from other plate creating holes (khali jaga) other plate.
+- for slow charge, use resistor
+- RC circuit, check Tinker card example
+- capacitor allow/pass ac
+- why how capacitor block some AC frequencies, depending on size of capacitor?
+- small capacitor , pass high frequencies? how ?
+- what is polarized capacitor?
+- bypass capacitor?
+- decoupling capacitor? coupling capacitor?
+- LPF, HPF?
+- smooting capacitor? snubber?
+- forward emf? backward emf?
+- super capacitors?
+- capacitor as battery substitute? any realworld examples?
+- voltage rating , is it for dc or ac? both?
+- what is voltage overload?
