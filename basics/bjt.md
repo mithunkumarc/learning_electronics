@@ -5,8 +5,11 @@ BJT as amplifier: imagine , signal fed to base, electrons from emitter mix with 
 
 base is the common place to feed input signal, (but emitter can also be used eg: common base)  
 
-npn : 
-
+npn :  imagining bjt transistor as amplifier
+As the Base voltage ripples up and down, it acts like your finger rapidly wiggling that water valve open and closed.  
+The Control Action: As the Base voltage ripples up and down, it acts like your finger rapidly wiggling that water valve open and closed.  
+The "Copy" is Created: Because the valve is opening and closing in perfect sync with the input signal, the massive current rushing from the emitter to the collector is forced to ripple up and down in the exact same pattern.   
+The shape of the collector current wave is a perfect "copy" of the base current wave, but it is scaled up dramatically.  
 
 npn , pnp : In simple terms, current flow in opposite directions   
 
