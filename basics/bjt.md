@@ -5,6 +5,9 @@ BJT as amplifier: imagine , signal fed to base, electrons from emitter mix with 
 
 base is the common place to feed input signal, (but emitter can also be used eg: common base)  
 
+npn : 
+
+
 npn , pnp : In simple terms, current flow in opposite directions   
 
 use of transistors : (dont confuse with mosfet, generally transistor referred to bjt)  
