@@ -3,7 +3,8 @@ npn ( common collector)
 - from power point of view no gain, collector current equal to emitter(law of conservation of energy), but from signal point of view 100% gain, 
 - assume input base is 1amp and output volt is 100amp or 1000amp??, lot of gain with respect to input signal 
 - analogy : xerox, collector white paper, emitter : copied paper, base : original copy
---
+  
+----
 - common collector : input output (base and emitter: check which one is which)
 - common base : input output (collector and emitter: check which one is which)
 - common emitter : input output (collector and base: check which one is which)
